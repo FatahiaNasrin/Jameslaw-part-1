@@ -59,6 +59,7 @@ body{
     letter-spacing: 1px;
     font-size: 25px;
     padding-left: 15px;
+    text-align: left;
 }
 .section{
     border: .3px solid gray;
